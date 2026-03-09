@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://i.ibb.co/Nd05NDnp/petalsqa-logo.png" alt="PetalSQA Logo" width="220"/>
+</p>
+
+<h1 align="center">PetalSQA</h1>
+<p align="center"><strong>Transforming Software Quality</strong></p>
+
+---
+
 # PetalSQA
 
 ### Transforming Software Quality
