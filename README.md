@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://i.ibb.co/Nd05NDnp/petalsqa-logo.png](https://ibb.co/Nd05NDnp)]" alt="PetalSQA Logo" width="500"/>
+  <img src="[[https://i.ibb.co/Nd05NDnp/petalsqa-logo.png]]" alt="PetalSQA Logo" width="500"/>
 </p>
 
 ---
